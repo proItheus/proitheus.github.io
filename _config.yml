@@ -30,7 +30,7 @@ domain: proitheus.github.io # the base hostname & protocol for your site, e.g. h
 # twitter_username: jekyllrb
 github_username:  proItheus
 paginate: 5
-reposity: "proItheus/proitheus.github.io"
+repository: "proItheus/proitheus.github.io"
 
 comments:
   provider: "utterances"
