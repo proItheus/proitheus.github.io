@@ -39,6 +39,14 @@ comments:
     issue_term: "pathname"
     label: "comment" # Optional - must be existing label.
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
+      
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
